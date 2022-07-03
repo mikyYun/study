@@ -1,6 +1,5 @@
 # study
 study foundation of required knowledges
-
 ## Logarithm (Complexity Analysis)
 ## Graph Traversals (BFS & DFS)
 ## Binary Search
